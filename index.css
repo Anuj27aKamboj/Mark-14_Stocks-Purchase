@@ -1,0 +1,44 @@
+
+
+body{
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #00004d;
+    color: aliceblue;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+input{
+    min-width: fit-content;
+    margin: 0 0.2rem;
+}
+
+
+label{
+    width: 60vw;
+    display: block;
+    padding: 1rem;
+    margin: auto;
+}
+
+button{
+    width: 6rem;
+    padding: 1rem;
+    border: 1px solid #38bdf8;
+    border-radius: 0.5rem;
+    margin: 2rem;
+}
+
+button:hover{
+    box-shadow: ;
+}
+
+#output-box{
+    padding: 1rem;
+    margin: 2rem;
+    background-color: 
+    #e6e6ff;
+}
